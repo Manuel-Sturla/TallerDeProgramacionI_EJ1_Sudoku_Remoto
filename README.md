@@ -1,6 +1,6 @@
 # EJ1 - Sudoku Remoto - Taller de Programación I
 Este trabajo muestra un Sudoku que corre a través de internet con un cliente conectándose a un servidor.  
-El enunciado correspondiente a este ejercicio puedo encontrarse en `Enunciado.pdf`.  
+El enunciado correspondiente a este ejercicio puedo encontrarse en `2019.02.ejercicio.1.sudoku-remoto.pdf`.  
 
 En este trabajo el foco se encuentra en implementar la arquitectura cliente servidor para ver un ejemplo más completo de uso ver [MicroMachines](https://github.com/hugomlb/MicroMachines)
 
